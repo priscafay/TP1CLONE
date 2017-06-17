@@ -1,0 +1,164 @@
+header{
+	background-color: #2b2d34;
+	color: white;
+	height: 700px;
+	margin-bottom: 57px;
+}
+nav{
+	display:inline-block; 
+}
+nav li{
+	display: inline-block;
+	margin-right: 15px;
+}
+
+#vit{
+	width: auto;
+	padding-top: 25px;
+}
+#hur {
+	text-align:left;
+width: 357px;
+margin-right: 157px;
+padding-top: 157px; 
+}
+#hur h1{
+	margin-bottom: 35px;
+}
+#hur p{
+	margin-bottom: 45px;
+	font-size: 1.2em;
+}
+#bt{
+	border-color: #3CB371;
+	border-radius: 30px ;
+	background-color: #3CB371;
+	
+}
+#nd{
+	border-color: #3CB371;
+	border-radius: 30px ;
+	background-color: black;
+	color: #3CB371;
+	margin-right: 45px;
+}
+#gret{
+	text-align: center;
+	margin-bottom: 120px;
+}
+#lur{
+	margin-left: 65px;
+}
+h1{
+	margin-top: 120px;
+}
+.fed{
+	text-align: center;
+	margin-bottom: 180px;
+}
+.fed p{
+	font-size: 1.6em;
+}
+.fed input{
+	width: 297px;
+}
+#hyrt{
+	padding-left:420px;
+	padding-right: 348px;
+}
+.fij{
+	width: 300px;
+	height: 40px;
+	margin-right: 15px;
+	border: 1px solid #C6C6C6;
+	border-radius: 5px;
+}
+#gril{
+	padding: 55px 89px 89px 89px;
+}
+#gril h2{
+	font-size: 3em;
+	width: 357px;
+	margin-bottom: 25px;
+}
+#gril p{
+	margin-bottom: 45px;
+}
+#gril button{
+	border: 1px solid black;
+}
+#bax{
+	margin-bottom: 120px;
+}
+.von{
+	padding: 0 250px 20px 250px;
+	text-align: center;
+    margin: 95px 85px 10px 85px;
+    border-top: 3px solid #C6C6C6;
+}
+.von h2{
+	font-size: 3em;
+	padding-top: 25px;
+}
+.von p{
+	font-size: 1.2em;
+}
+#tess{
+	text-align: center;
+	margin-bottom: 150px;
+}
+#tess button{
+	width: 200px;
+}
+.bgs{
+	height: 150px;
+	border: 1px solid #C6C6C6;
+	width: 300px;
+}
+#bifq input{
+height: 50px;
+}
+#bifq{
+	padding-left: 225px;
+	padding-right: 255px;
+	margin-top: 20px;
+	 
+}
+
+.wrapper{
+	width: 890px;
+	padding-left: 225px;
+	margin-bottom: 25px;
+}
+footer{
+	background-color: black;
+	height: 250px;
+	padding: 25px 35px 25px 35px;
+}
+footer li{
+	display: block;
+	color: #C6C6C6;
+    margin-top:5px; 
+}
+footer ul{
+	float: right;
+	margin-right: 50px;
+
+}
+#fri{
+	color: white;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+#crod span{
+color: white;
+font-weight: bold;
+}
+#ness{
+	width: 100%;
+	margin-top: 35px;
+	padding-top: 15px;
+	color: white;
+	border-top: 2px solid #C6C6C6;
+}
