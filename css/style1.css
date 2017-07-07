@@ -1,0 +1,96 @@
+.container{
+	width: auto;
+}
+header{
+	background-image: url('../image TP1/coworking.jpg');
+  height: 500px;
+  width: auto;
+  margin-bottom: 35px;
+}
+header h1{
+	font-size: 1.8em;
+	color: #FF55C2;
+	font-family: 'Arial',serif;
+
+}
+nav{
+	display: inline-block;
+    padding-top: 25px;
+}
+nav li{
+	display: inline-block;
+	margin-left: 15px;
+	
+}
+ul{
+	float: right;
+}
+a{
+	color: white;
+}
+a:hover{
+	text-decoration: none;
+	color: #FF55C2; 
+}
+#fite{
+	padding-top: 25px;
+
+	
+}
+#fite span{
+	margin-right: 15px;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	color: white;
+	
+}
+#grap{
+	background-color: black;
+	width: auto;
+	border-bottom: 2px solid #FF55C2;
+}
+.jut{
+    height: 58px;
+	background-color: #C6C6C6 ;
+	text-align: center;
+	font-size: 1.2em;
+	padding-top: 15px;
+	font-style: italic;
+	}
+
+#grit{
+	float: right;
+	margin-top:25px;
+	border: 1px solid black;
+	height: 280px; 
+	width: 250px;
+	background-color: rgba(255,255,255,0.5);
+}
+#FRE{
+	margin-bottom: 45px;
+	padding: 0 25px 0 45px;
+}
+#GRAS{
+	border-right: 1px solid #C6C6C6;
+}
+#HUT{
+	border-right: 1px solid #C6C6C6;
+}
+#jek{
+	
+	color: white;
+	background-color: black;
+	padding: 10px 0 0 45px;
+
+}
+#gt{
+background-color: #FF55C2;
+width: 217px;
+color: black;
+border-color: #FF55C2;
+}
+#dgs{
+	background-color: #C6C6C6;
+	border-color: #C6C6C6;
+	color: black;
+}
